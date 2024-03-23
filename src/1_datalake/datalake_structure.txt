@@ -1,4 +1,4 @@
-datalake/
+datalake
 datalake/databases/
 datalake/downsampled_data/
 datalake/logs/
