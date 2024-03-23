@@ -268,3 +268,7 @@ def main():
     y_test_pred = best_model.predict(x_test)
     mse, mae, r2 = compute_metrics(y_test_true, y_test_pred)
     report_metrics(best_model, mse, mae, r2)
+
+
+if __name__ == "__main__":
+    main()
