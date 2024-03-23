@@ -1,0 +1,52 @@
+2024-03-23 11:55:51,378:INFO:Starting the application
+2024-03-23 11:55:51,414:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:55:51,414:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:55:51,416:INFO: * Restarting with stat
+2024-03-23 11:55:52,293:INFO:Starting the application
+2024-03-23 11:55:52,299:WARNING: * Debugger is active!
+2024-03-23 11:55:52,303:INFO: * Debugger PIN: 109-746-895
+2024-03-23 11:56:27,563:INFO:127.0.0.1 - - [23/Mar/2024 11:56:27] "GET / HTTP/1.1" 200 -
+2024-03-23 11:56:27,677:INFO:127.0.0.1 - - [23/Mar/2024 11:56:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 11:56:30,524:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:56:32,166:INFO:Prediction: 155849.9
+2024-03-23 11:56:32,170:INFO:127.0.0.1 - - [23/Mar/2024 11:56:32] "POST / HTTP/1.1" 200 -
+2024-03-23 11:57:05,422:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 11:57:05,660:INFO: * Restarting with stat
+2024-03-23 11:57:07,112:INFO:Starting the application
+2024-03-23 11:57:07,123:WARNING: * Debugger is active!
+2024-03-23 11:57:07,127:INFO: * Debugger PIN: 109-746-895
+2024-03-23 11:57:50,264:INFO:User values: {'bedrooms': 8.0, 'bathrooms': 4.0, 'sqft_living': 1350.0, 'sqft_lot': 7650.0, 'floors': 4.0, 'waterfront': 0, 'condition': 4}
+2024-03-23 11:57:51,145:INFO:Prediction: -22188.7
+2024-03-23 11:57:51,148:INFO:127.0.0.1 - - [23/Mar/2024 11:57:51] "POST / HTTP/1.1" 200 -
+2024-03-23 11:58:02,995:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 5}
+2024-03-23 11:58:02,998:INFO:Prediction: 317252.91
+2024-03-23 11:58:02,999:INFO:127.0.0.1 - - [23/Mar/2024 11:58:02] "POST / HTTP/1.1" 200 -
+2024-03-23 11:58:29,584:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 11:58:29,791:INFO: * Restarting with stat
+2024-03-23 11:58:30,819:INFO:Starting the application
+2024-03-23 11:58:30,824:WARNING: * Debugger is active!
+2024-03-23 11:58:30,827:INFO: * Debugger PIN: 109-746-895
+2024-03-23 11:59:24,959:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5651.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:59:25,831:INFO:Prediction: 155848.66
+2024-03-23 11:59:25,834:INFO:127.0.0.1 - - [23/Mar/2024 11:59:25] "POST / HTTP/1.1" 200 -
+2024-03-23 11:59:32,502:INFO:User values: {'bedrooms': 10.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:59:32,506:INFO:Prediction: -326318.91
+2024-03-23 11:59:32,507:INFO:127.0.0.1 - - [23/Mar/2024 11:59:32] "POST / HTTP/1.1" 200 -
+2024-03-23 11:59:37,306:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:59:37,308:INFO:Prediction: 155849.9
+2024-03-23 11:59:37,308:INFO:127.0.0.1 - - [23/Mar/2024 11:59:37] "POST / HTTP/1.1" 200 -
+2024-03-23 11:59:42,323:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 6.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:59:42,325:INFO:Prediction: 235629.1
+2024-03-23 11:59:42,326:INFO:127.0.0.1 - - [23/Mar/2024 11:59:42] "POST / HTTP/1.1" 200 -
+2024-03-23 11:59:47,766:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 6.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 11:59:47,769:INFO:Prediction: 235629.1
+2024-03-23 11:59:47,770:INFO:127.0.0.1 - - [23/Mar/2024 11:59:47] "POST / HTTP/1.1" 200 -
+2024-03-23 11:59:54,015:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 1, 'condition': 1}
+2024-03-23 11:59:54,018:INFO:Prediction: 1291080.39
+2024-03-23 11:59:54,019:INFO:127.0.0.1 - - [23/Mar/2024 11:59:54] "POST / HTTP/1.1" 200 -
+2024-03-23 12:00:13,128:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 12:00:13,320:INFO: * Restarting with stat
+2024-03-23 12:00:14,370:INFO:Starting the application
+2024-03-23 12:00:14,379:WARNING: * Debugger is active!
+2024-03-23 12:00:14,382:INFO: * Debugger PIN: 109-746-895

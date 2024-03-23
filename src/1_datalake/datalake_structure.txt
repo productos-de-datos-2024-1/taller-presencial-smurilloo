@@ -1,7 +1,8 @@
-datalake
+
 datalake/databases/
 datalake/downsampled_data/
 datalake/logs/
 datalake/models/
 datalake/raw/ingested/
 datalake/raw/stagging/
+
