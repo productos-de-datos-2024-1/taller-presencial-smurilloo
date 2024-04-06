@@ -167,3 +167,8 @@
 2024-04-06 11:20:38,313:INFO:Starting the application
 2024-04-06 11:20:38,328:WARNING: * Debugger is active!
 2024-04-06 11:20:38,338:INFO: * Debugger PIN: 232-300-915
+2024-04-06 11:25:38,975:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\autograding.py', reloading
+2024-04-06 11:25:39,046:INFO: * Restarting with stat
+2024-04-06 11:25:39,795:INFO:Starting the application
+2024-04-06 11:25:39,810:WARNING: * Debugger is active!
+2024-04-06 11:25:39,814:INFO: * Debugger PIN: 232-300-915

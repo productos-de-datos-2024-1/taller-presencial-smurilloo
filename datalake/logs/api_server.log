@@ -207,3 +207,11 @@
 2024-04-06 11:20:15,012:INFO:127.0.0.1 - - [06/Apr/2024 11:20:15] "POST / HTTP/1.1" 200 -
 2024-04-06 11:20:15,014:INFO:Prediction: [155849.90294016]
 2024-04-06 11:20:15,015:INFO:127.0.0.1 - - [06/Apr/2024 11:20:15] "POST / HTTP/1.1" 200 -
+2024-04-06 11:24:53,757:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\autograding.py', reloading
+2024-04-06 11:24:54,047:INFO: * Restarting with stat
+2024-04-06 11:24:55,191:WARNING: * Debugger is active!
+2024-04-06 11:24:55,195:INFO: * Debugger PIN: 888-117-895
+2024-04-06 11:25:00,490:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\autograding.py', reloading
+2024-04-06 11:25:00,620:INFO: * Restarting with stat
+2024-04-06 11:25:01,550:WARNING: * Debugger is active!
+2024-04-06 11:25:01,555:INFO: * Debugger PIN: 888-117-895
