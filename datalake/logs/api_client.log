@@ -1,0 +1,135 @@
+2024-04-06 09:14:36,845:INFO:Starting the application
+2024-04-06 09:14:36,875:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:14:36,875:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:14:36,877:INFO: * Restarting with stat
+2024-04-06 09:14:37,519:INFO:Starting the application
+2024-04-06 09:14:37,531:WARNING: * Debugger is active!
+2024-04-06 09:14:37,534:INFO: * Debugger PIN: 232-300-915
+2024-04-06 09:15:06,392:INFO:127.0.0.1 - - [06/Apr/2024 09:15:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-06 09:15:06,479:INFO:127.0.0.1 - - [06/Apr/2024 09:15:06] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-06 09:15:06,488:INFO:127.0.0.1 - - [06/Apr/2024 09:15:06] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-06 09:15:06,536:INFO:127.0.0.1 - - [06/Apr/2024 09:15:06] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-06 09:15:06,546:INFO:127.0.0.1 - - [06/Apr/2024 09:15:06] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:15:54,072:INFO:Starting the application
+2024-04-06 09:15:54,131:INFO:Starting the application
+2024-04-06 09:16:05,321:INFO:Starting the application
+2024-04-06 09:16:05,339:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:16:05,339:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:16:05,340:INFO: * Restarting with stat
+2024-04-06 09:16:05,819:INFO:Starting the application
+2024-04-06 09:16:05,827:WARNING: * Debugger is active!
+2024-04-06 09:16:05,831:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:16:12,466:INFO:127.0.0.1 - - [06/Apr/2024 09:16:12] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-06 09:16:12,518:INFO:127.0.0.1 - - [06/Apr/2024 09:16:12] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-06 09:16:12,529:INFO:127.0.0.1 - - [06/Apr/2024 09:16:12] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-06 09:16:12,545:INFO:127.0.0.1 - - [06/Apr/2024 09:16:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:16:12,556:INFO:127.0.0.1 - - [06/Apr/2024 09:16:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:16:15,114:INFO:127.0.0.1 - - [06/Apr/2024 09:16:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-06 09:16:15,127:INFO:127.0.0.1 - - [06/Apr/2024 09:16:15] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-06 09:16:15,128:INFO:127.0.0.1 - - [06/Apr/2024 09:16:15] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-06 09:16:15,141:INFO:127.0.0.1 - - [06/Apr/2024 09:16:15] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:16:15,152:INFO:127.0.0.1 - - [06/Apr/2024 09:16:15] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:17:29,945:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:17:29,997:INFO: * Restarting with stat
+2024-04-06 09:17:30,453:INFO:Starting the application
+2024-04-06 09:17:30,460:WARNING: * Debugger is active!
+2024-04-06 09:17:30,464:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:17:32,518:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:17:32,580:INFO: * Restarting with stat
+2024-04-06 09:17:33,058:INFO:Starting the application
+2024-04-06 09:17:33,066:WARNING: * Debugger is active!
+2024-04-06 09:17:33,070:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:18:09,064:INFO:Starting the application
+2024-04-06 09:18:09,134:INFO:Starting the application
+2024-04-06 09:18:16,454:INFO:Starting the application
+2024-04-06 09:18:16,470:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:18:16,470:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:18:16,472:INFO: * Restarting with stat
+2024-04-06 09:18:16,926:INFO:Starting the application
+2024-04-06 09:18:16,932:WARNING: * Debugger is active!
+2024-04-06 09:18:16,936:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:18:39,002:INFO:Starting the application
+2024-04-06 09:18:39,052:INFO:Starting the application
+2024-04-06 09:18:59,727:INFO:Starting the application
+2024-04-06 09:18:59,742:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:18:59,742:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:18:59,743:INFO: * Restarting with stat
+2024-04-06 09:19:00,207:INFO:Starting the application
+2024-04-06 09:19:00,213:WARNING: * Debugger is active!
+2024-04-06 09:19:00,217:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:19:06,144:INFO:127.0.0.1 - - [06/Apr/2024 09:19:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-06 09:19:06,211:INFO:127.0.0.1 - - [06/Apr/2024 09:19:06] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-06 09:19:06,212:INFO:127.0.0.1 - - [06/Apr/2024 09:19:06] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-06 09:19:06,224:INFO:127.0.0.1 - - [06/Apr/2024 09:19:06] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:19:06,236:INFO:127.0.0.1 - - [06/Apr/2024 09:19:06] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:19:28,658:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:19:28,710:INFO: * Restarting with stat
+2024-04-06 09:19:29,178:INFO:Starting the application
+2024-04-06 09:19:29,185:WARNING: * Debugger is active!
+2024-04-06 09:19:29,189:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:21:44,251:INFO:Starting the application
+2024-04-06 09:21:44,300:INFO:Starting the application
+2024-04-06 09:23:29,194:INFO:Starting the application
+2024-04-06 09:23:29,214:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:23:29,214:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:23:29,216:INFO: * Restarting with stat
+2024-04-06 09:23:29,661:INFO:Starting the application
+2024-04-06 09:23:29,668:WARNING: * Debugger is active!
+2024-04-06 09:23:29,672:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:23:36,636:INFO:127.0.0.1 - - [06/Apr/2024 09:23:36] "GET / HTTP/1.1" 200 -
+2024-04-06 09:23:36,674:INFO:127.0.0.1 - - [06/Apr/2024 09:23:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:23:38,399:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:23:39,800:INFO:Prediction: 155849.9
+2024-04-06 09:23:39,803:INFO:127.0.0.1 - - [06/Apr/2024 09:23:39] "POST / HTTP/1.1" 200 -
+2024-04-06 09:24:25,556:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:24:25,612:INFO: * Restarting with stat
+2024-04-06 09:24:26,091:INFO:Starting the application
+2024-04-06 09:24:26,098:WARNING: * Debugger is active!
+2024-04-06 09:24:26,103:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:24:31,194:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:24:31,244:INFO: * Restarting with stat
+2024-04-06 09:24:31,710:INFO:Starting the application
+2024-04-06 09:24:31,717:WARNING: * Debugger is active!
+2024-04-06 09:24:31,722:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:24:35,813:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:24:35,875:INFO: * Restarting with stat
+2024-04-06 09:24:36,363:INFO:Starting the application
+2024-04-06 09:24:36,369:WARNING: * Debugger is active!
+2024-04-06 09:24:36,373:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:25:00,752:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:25:00,812:INFO: * Restarting with stat
+2024-04-06 09:25:01,277:INFO:Starting the application
+2024-04-06 09:25:01,284:WARNING: * Debugger is active!
+2024-04-06 09:25:01,288:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:25:56,162:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:25:56,215:INFO: * Restarting with stat
+2024-04-06 09:25:56,742:INFO:Starting the application
+2024-04-06 09:25:56,750:WARNING: * Debugger is active!
+2024-04-06 09:25:56,755:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:26:04,887:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:26:04,943:INFO: * Restarting with stat
+2024-04-06 09:26:05,479:INFO:Starting the application
+2024-04-06 09:26:05,489:WARNING: * Debugger is active!
+2024-04-06 09:26:05,493:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:29:00,055:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:29:00,114:INFO: * Restarting with stat
+2024-04-06 09:29:00,579:INFO:Starting the application
+2024-04-06 09:29:00,584:WARNING: * Debugger is active!
+2024-04-06 09:29:00,588:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:30:43,935:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:30:43,988:INFO: * Restarting with stat
+2024-04-06 09:30:44,455:INFO:Starting the application
+2024-04-06 09:30:44,460:WARNING: * Debugger is active!
+2024-04-06 09:30:44,465:INFO: * Debugger PIN: 888-117-895
+2024-04-06 10:17:16,669:INFO:127.0.0.1 - - [06/Apr/2024 10:17:16] "GET / HTTP/1.1" 200 -
+2024-04-06 10:17:22,312:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 10:17:22,678:INFO:Prediction: 155849.9
+2024-04-06 10:17:22,690:INFO:127.0.0.1 - - [06/Apr/2024 10:17:22] "POST / HTTP/1.1" 200 -
+2024-04-06 10:23:20,993:INFO:127.0.0.1 - - [06/Apr/2024 10:23:20] "GET / HTTP/1.1" 200 -
+2024-04-06 10:23:21,180:INFO:127.0.0.1 - - [06/Apr/2024 10:23:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 10:50:16,788:INFO:127.0.0.1 - - [06/Apr/2024 10:50:16] "GET / HTTP/1.1" 200 -

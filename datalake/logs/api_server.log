@@ -1,0 +1,190 @@
+2024-04-06 07:30:53,549:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:30:53,549:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:30:53,550:INFO: * Restarting with stat
+2024-04-06 07:30:54,419:WARNING: * Debugger is active!
+2024-04-06 07:30:54,424:INFO: * Debugger PIN: 888-117-895
+2024-04-06 07:31:23,329:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:31:23,442:INFO: * Restarting with stat
+2024-04-06 07:31:24,298:WARNING: * Debugger is active!
+2024-04-06 07:31:24,301:INFO: * Debugger PIN: 888-117-895
+2024-04-06 07:32:07,013:INFO:127.0.0.1 - - [06/Apr/2024 07:32:07] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:32:07,104:INFO:127.0.0.1 - - [06/Apr/2024 07:32:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 07:37:25,716:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:37:25,818:INFO: * Restarting with stat
+2024-04-06 07:37:26,705:WARNING: * Debugger is active!
+2024-04-06 07:37:26,709:INFO: * Debugger PIN: 888-117-895
+2024-04-06 07:38:05,929:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:38:06,042:INFO: * Restarting with stat
+2024-04-06 07:38:06,989:WARNING: * Debugger is active!
+2024-04-06 07:38:06,991:INFO: * Debugger PIN: 888-117-895
+2024-04-06 07:45:08,837:INFO:127.0.0.1 - - [06/Apr/2024 07:45:08] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:52:01,989:INFO:127.0.0.1 - - [06/Apr/2024 07:52:01] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:52:07,676:INFO:127.0.0.1 - - [06/Apr/2024 07:52:07] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:52:42,258:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 07:52:42,354:INFO: * Restarting with stat
+2024-04-06 07:52:43,201:WARNING: * Debugger is active!
+2024-04-06 07:52:43,205:INFO: * Debugger PIN: 888-117-895
+2024-04-06 07:53:08,990:INFO:127.0.0.1 - - [06/Apr/2024 07:53:08] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:53:37,812:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 07:53:37,922:INFO: * Restarting with stat
+2024-04-06 07:53:38,732:WARNING: * Debugger is active!
+2024-04-06 07:53:38,736:INFO: * Debugger PIN: 888-117-895
+2024-04-06 07:53:52,183:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 07:53:52,300:INFO: * Restarting with stat
+2024-04-06 07:53:53,234:WARNING: * Debugger is active!
+2024-04-06 07:53:53,238:INFO: * Debugger PIN: 888-117-895
+2024-04-06 07:57:29,573:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:57:29,574:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:57:29,575:INFO: * Restarting with stat
+2024-04-06 07:57:30,414:WARNING: * Debugger is active!
+2024-04-06 07:57:30,418:INFO: * Debugger PIN: 888-117-895
+2024-04-06 07:57:44,619:INFO:127.0.0.1 - - [06/Apr/2024 07:57:44] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 07:59:13,475:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 07:59:16,966:INFO:Prediction: [1605832.10562042]
+2024-04-06 07:59:16,967:INFO:127.0.0.1 - - [06/Apr/2024 07:59:16] "POST / HTTP/1.1" 200 -
+2024-04-06 08:00:01,717:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:00:01,927:INFO: * Restarting with stat
+2024-04-06 08:00:02,752:WARNING: * Debugger is active!
+2024-04-06 08:00:02,756:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:00:04,874:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:00:04,969:INFO: * Restarting with stat
+2024-04-06 08:00:05,731:WARNING: * Debugger is active!
+2024-04-06 08:00:05,735:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:00:32,605:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:00:32,702:INFO: * Restarting with stat
+2024-04-06 08:00:33,537:WARNING: * Debugger is active!
+2024-04-06 08:00:33,541:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:05:43,663:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:05:44,979:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:05:44,980:INFO:127.0.0.1 - - [06/Apr/2024 08:05:44] "POST / HTTP/1.1" 200 -
+2024-04-06 08:06:29,400:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:06:29,602:INFO: * Restarting with stat
+2024-04-06 08:06:30,538:WARNING: * Debugger is active!
+2024-04-06 08:06:30,541:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:19:07,858:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:19:07,959:INFO: * Restarting with stat
+2024-04-06 08:19:08,810:WARNING: * Debugger is active!
+2024-04-06 08:19:08,813:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:21:03,245:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:21:03,359:INFO: * Restarting with stat
+2024-04-06 08:21:04,323:WARNING: * Debugger is active!
+2024-04-06 08:21:04,327:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:21:30,140:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:21:30,239:INFO: * Restarting with stat
+2024-04-06 08:21:31,072:WARNING: * Debugger is active!
+2024-04-06 08:21:31,077:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:21:40,501:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:21:41,279:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:21:41,279:INFO:127.0.0.1 - - [06/Apr/2024 08:21:41] "POST / HTTP/1.1" 200 -
+2024-04-06 08:21:47,872:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:21:48,062:INFO: * Restarting with stat
+2024-04-06 08:21:48,978:WARNING: * Debugger is active!
+2024-04-06 08:21:48,982:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:21:51,099:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:21:51,196:INFO: * Restarting with stat
+2024-04-06 08:21:52,138:WARNING: * Debugger is active!
+2024-04-06 08:21:52,142:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:23:08,419:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:23:08,543:INFO: * Restarting with stat
+2024-04-06 08:23:09,466:WARNING: * Debugger is active!
+2024-04-06 08:23:09,469:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:23:21,913:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:23:22,034:INFO: * Restarting with stat
+2024-04-06 08:23:22,941:WARNING: * Debugger is active!
+2024-04-06 08:23:22,944:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:23:28,177:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:23:28,299:INFO: * Restarting with stat
+2024-04-06 08:23:29,280:WARNING: * Debugger is active!
+2024-04-06 08:23:29,283:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:23:46,855:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:23:46,959:INFO: * Restarting with stat
+2024-04-06 08:23:47,852:WARNING: * Debugger is active!
+2024-04-06 08:23:47,856:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:26:08,034:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:26:08,143:INFO: * Restarting with stat
+2024-04-06 08:26:08,941:WARNING: * Debugger is active!
+2024-04-06 08:26:08,943:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:26:16,207:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:26:16,325:INFO: * Restarting with stat
+2024-04-06 08:26:17,093:WARNING: * Debugger is active!
+2024-04-06 08:26:17,097:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:26:19,208:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:26:19,297:INFO: * Restarting with stat
+2024-04-06 08:26:20,080:WARNING: * Debugger is active!
+2024-04-06 08:26:20,084:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:26:27,344:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:26:27,438:INFO: * Restarting with stat
+2024-04-06 08:26:28,317:WARNING: * Debugger is active!
+2024-04-06 08:26:28,320:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:26:43,809:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:26:43,898:INFO: * Restarting with stat
+2024-04-06 08:26:44,655:WARNING: * Debugger is active!
+2024-04-06 08:26:44,658:INFO: * Debugger PIN: 888-117-895
+2024-04-06 08:26:53,989:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 08:26:54,076:INFO: * Restarting with stat
+2024-04-06 08:26:54,841:WARNING: * Debugger is active!
+2024-04-06 08:26:54,844:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:06:08,343:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6b_api_server\\server.py', reloading
+2024-04-06 09:06:08,445:INFO: * Restarting with stat
+2024-04-06 09:06:09,413:WARNING: * Debugger is active!
+2024-04-06 09:06:09,417:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:18:19,912:INFO:127.0.0.1 - - [06/Apr/2024 09:18:19] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:18:47,394:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:18:47,394:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:18:47,396:INFO: * Restarting with stat
+2024-04-06 09:18:48,226:WARNING: * Debugger is active!
+2024-04-06 09:18:48,229:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:19:03,080:INFO:127.0.0.1 - - [06/Apr/2024 09:19:03] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:19:55,923:INFO:127.0.0.1 - - [06/Apr/2024 09:19:55] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:20:25,057:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:25] code 400, message Bad request version ('\x03ÄeùõY\x87þÜ]\x81î\x01\x08â\x9dB2"_æ\x7fÌM\x11tó\x88BHgã\x01\xad\x01\x8eÎþÍÈ\x81>ãü*VãN`')
+2024-04-06 09:20:25,057:INFO:127.0.0.1 - - [06/Apr/2024 09:20:25] "[31m[1m\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03\x7fh\x05ß\x1c£\x10ÿù\x03ð®ºH¾É¹Ýï¢s`D\x06û\x07ÈÌoÀÖ° ¼\x1b\x99\x1aÜbåq@n|\x87²AréíÚ\x06|\x82Ìö;\x8a\x1e1ÖSy¨è\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01­JJ\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01þ\x0d\x00ú\x00\x00\x01\x00\x01\x8c\x00 \x1cw4¥\x13$\x0e¥\x10\x82\x9bJj\x93\x91Â\x0f\x86^ÿ\x9cj$ÿ@Ü\x92(ù\x9dâ\x1e\x00Ðñ:WA730\x90è\x01Öá\x94#\x0b\x03ÄeùõY\x87þÜ]\x81î\x01\x08â\x9dB2"_æ\x7fÌM\x11tó\x88BHgã\x01­\x01\x8eÎþÍÈ\x81>ãü*VãN`[0m" 400 -
+2024-04-06 09:20:25,060:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:25] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03}©ð&Ó')
+2024-04-06 09:20:25,060:INFO:127.0.0.1 - - [06/Apr/2024 09:20:25] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03}©ð&Ó[0m" 400 -
+2024-04-06 09:20:25,070:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:25] code 400, message Bad request version ('\x9f\x9eKÜE\x0e²cú^óD¡ÁGÿ¼')
+2024-04-06 09:20:25,070:INFO:127.0.0.1 - - [06/Apr/2024 09:20:25] "[31m[1m\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03/_ þ.\x14àZ>\x92s\x01t$=U\x9b¼¤\x83"½\x8a\x9a\x08|\x97Xë\x94hÿ \x12²°;\x0cï\x07x\x88è\x9b \x9f\x9eKÜE\x0e²cú^óD¡ÁGÿ¼[0m" 400 -
+2024-04-06 09:20:25,073:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:25] code 400, message Bad request syntax ('\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03A\\\x00\x87r/z\x8c¡ì¤\x00v\x87Ñ|!g\x84b7Ûª')
+2024-04-06 09:20:25,073:INFO:127.0.0.1 - - [06/Apr/2024 09:20:25] "[31m[1m\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03A\\\x00\x87r/z\x8c¡ì¤\x00v\x87Ñ|!g\x84b7Ûª[0m" 400 -
+2024-04-06 09:20:25,112:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:25] code 400, message Bad request version ('ñº!\x9b¶\x18\x06´UÑÛ,gG')
+2024-04-06 09:20:25,112:INFO:127.0.0.1 - - [06/Apr/2024 09:20:25] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x9f\x8d¡&êõ\x9dä\x860] 8õ»Hi+w~\x0f\x00¨\x09G\x9fØ\x81?½\x00\x15 ¹p¡\x81\x9aóñ\x98]l¹\x057ûvþÉ÷¢²åçsÀ\x00>XÁ¿\x85Ýý\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÚÚ\x00\x00Di\x00\x05\x00\x03\x02h2\x00#\x00\x00ÿ\x01\x00\x01\x00þ\x0d\x00Ú\x00\x00\x01\x00\x01p\x00 ñº!\x9b¶\x18\x06´UÑÛ,gG[0m" 400 -
+2024-04-06 09:20:25,113:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:25] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x86`Å\x87yÎÜPK\x81±J')
+2024-04-06 09:20:25,113:INFO:127.0.0.1 - - [06/Apr/2024 09:20:25] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x86`Å\x87yÎÜPK\x81±J[0m" 400 -
+2024-04-06 09:20:25,114:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:25] code 400, message Bad request version ('?Í´`\x00')
+2024-04-06 09:20:25,114:INFO:127.0.0.1 - - [06/Apr/2024 09:20:25] "[31m[1m\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03ìÅDPÐ#¨à#\x1cõËtj*SA\x89\x15$\x8f\x1e\x0b\x85¤þßKÉB¤\x83 U»v\x0f¹Ùò}>ð´AÃ\x86tû\x0d\x1cr\x9dñ\x08º\x80\x11s@æC\x0d\x0e¥\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01­ªª\x00\x00þ\x0d\x00ú\x00\x00\x01\x00\x01e\x00 +aB\x02Üg\x00\x01\x85h\x99ås°ai±\x9e÷T\x97ÝIH]L(9ÈXCy\x00Ð¥\x01\x16b²YÈ\x1a\x1dé\x9b¬KËô\x8a\x174X§{ä7¿ìÙ\x95´Û1[â\x0eùà4R\x01¬÷CB\x94U%¸\x0c¢$³ñ\x94\x0bÄ\x01ô¡\x19ÁP.\x0e0o\x0dèç\x88aw¶:y\x0b\x1bØ(|\x1fyJo\x1fU'ÈÜYÏ\x94\x83ñ\x95Ö\x02\x00\x9b¿"}P8Ð\x90exª\x98¾\\µ\x90»ÓÕÙmUù\x0bÖÅ ×\x95Ð-5È±Â§<Ä´Np:Ì\x86*O\x1fk!±¼+Y\x10FM\x95´§õÇBýÂ{\x93¥Ì\x15r`\x0d\x97}{2Ì'#ü\x1de»Ì×,%\x8eõâ¦C\x07Z\x97»\x999\x87{kP¶p6÷\x12pd\x13þ7\x00\x12\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x003\x00+\x00)ºº\x00\x01\x00\x00\x1d\x00 Yä²\x8b\x1cÄ'_$'sø¸§Æiý(\x87ÛÌ\x0fG\x92¾7L\x85?Í´`\x00[0m" 400 -
+2024-04-06 09:20:25,115:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:25] code 400, message Bad request version ('Ï\x1bÿ2BÍ\x03¦9Ø\x07«\x02,Cq)\x19ë_)r?\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00+\x00\x07\x06jj\x03\x04\x03\x03\x00')
+2024-04-06 09:20:25,115:INFO:127.0.0.1 - - [06/Apr/2024 09:20:25] "[31m[1m\x16\x03\x01\x02:\x01\x00\x026\x03\x03]ò\x19\x1b+Ë\x84ÆnÏ+¨V\x87Ásk¤Î%\x10\x08UÆ\x95aH\x0f*M\x1c\x00 üóþ\x82\x90»ï\x1e\x06å¤Þk×®\x16þî? j\x80\x03\x95·d)e¶«g!\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01Íjj\x00\x00\x00\x17\x00\x00\x003\x00+\x00)**\x00\x01\x00\x00\x1d\x00 \x8dÚ¦\x94[gôÙ\x1fÏ\x1bÿ2BÍ\x03¦9Ø\x07«\x02,Cq)\x19ë_)r?\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01\x00\x12\x00\x00\x00+\x00\x07\x06jj\x03\x04\x03\x03\x00[0m" 400 -
+2024-04-06 09:20:35,960:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:35] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+2024-04-06 09:20:35,960:INFO:127.0.0.1 - - [06/Apr/2024 09:20:35] "[31m[1m\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x036üh¨W}\x87\x0c'"D\x87;dài,oZ³Ëä\x0f0ß\x87¬3I»m< õÑ\x84\x89\x04½ÎmSÕ\x07\x1d\x10+\x9dä$\x14|Ï>i«]þ\x19ê-ïz`î\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01­ºº\x00\x00\x00#\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x0d\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01Di\x00\x05\x00\x03\x02h2\x003\x00+\x00)\x1a\x1a\x00\x01\x00\x00\x1d\x00 \x04g\x8fþB§[Ì7x¬h\x90Ø\x8f\x17\x82yõ\x91º^G©§\x0e\x18ê]\x9bm\x0c\x00+\x00\x07\x06ÚÚ\x03\x04\x03\x03ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00\x12\x00\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00-\x00\x02\x01\x01\x00\x0b\x00\x02\x01\x00\x00[0m" 400 -
+2024-04-06 09:20:35,962:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:35] code 400, message Bad request syntax ('\x16\x03\x01\x02:\x01\x00\x026\x03\x03Ö\x8føÌ9\x895²¬áh\x07Ñ¼£Öç')
+2024-04-06 09:20:35,962:INFO:127.0.0.1 - - [06/Apr/2024 09:20:35] "[31m[1m\x16\x03\x01\x02:\x01\x00\x026\x03\x03Ö\x8føÌ9\x895²¬áh\x07Ñ¼£Öç[0m" 400 -
+2024-04-06 09:20:35,970:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:35] code 400, message Bad request version ('è¼"½;\x05\x98\x8b\x1a¾©©\x08Ö\x15\x93®K\x01C')
+2024-04-06 09:20:35,970:INFO:127.0.0.1 - - [06/Apr/2024 09:20:35] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x14êÐL¦ ýÄÕ²îBcoê¢ù;¬ü\x16>\x8bÔ\x99$\x12\x03²>¨ê \x0f*µ4J\x1dZsÑ²äì¬\x1cû\x9b1\x05V â¦\x85\x07tÏDï§Ó\x18ã\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÊÊ\x00\x00\x00#\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00ÿ\x01\x00\x01\x00þ\x0d\x00º\x00\x00\x01\x00\x01\x9d\x00 è¼"½;\x05\x98\x8b\x1a¾©©\x08Ö\x15\x93®K\x01C[0m" 400 -
+2024-04-06 09:20:35,971:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:35] code 400, message Bad request version ("¢,\x0f'kSà\x16øÂüo\x99óh?\x1a\x16ü¦ZrÑ\x06½*\x06;qÓ\x00")
+2024-04-06 09:20:35,971:INFO:127.0.0.1 - - [06/Apr/2024 09:20:35] "[31m[1m\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03;ÃS@C\x0f;%\x9eäè\x10\x8fÓ~-r\x14:f\x0cÙµ{»ß\x8dãl\x9e\x8f\x05 % ¢,\x0f'kSà\x16øÂüo\x99óh?\x1a\x16ü¦ZrÑ\x06½*\x06;qÓ\x00 [0m" 400 -
+2024-04-06 09:20:35,972:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:35] code 400, message Bad request version ('\x00\x02\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01\x00')
+2024-04-06 09:20:35,973:INFO:127.0.0.1 - - [06/Apr/2024 09:20:35] "[31m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03§ÜgÀ\x98°îújâ,%Øë-§ùë4BL{4KmJUWÔ\x96t: ?F+\x98\x16\x96ÜÍ|\x8c\x01/Òì#¾ÜkÎ\x01@V4\x190jiÎ\x90mÐ\x1d\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00\x00\x0b\x00\x02\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00-\x00\x02\x01\x01\x00[0m" 400 -
+2024-04-06 09:20:35,974:ERROR:127.0.0.1 - - [06/Apr/2024 09:20:35] code 400, message Bad request version ('\x95¬ü\x01\x17')
+2024-04-06 09:20:35,974:INFO:127.0.0.1 - - [06/Apr/2024 09:20:35] "[31m[1m\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x032¿z[\x89)wû\x89ýg\x1a\x1fG\x9a\x1dã\x95æK_]¾Gv»\x1có§æ82 wéÜ\x01\x19\x80å\x1b?\x13nÙÖ¡\x10\x1e\x19Å{mÈ\x9eW|µ=Ë4\x15R£¡\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01­::\x00\x00\x00\x0b\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2\x00-\x00\x02\x01\x01\x00\x17\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x003\x00+\x00)ªª\x00\x01\x00\x00\x1d\x00 i\x13\x0bÙ]ËûbÙG­Kñ\x7fK×\x1c\x95¬ü\x01\x17[0m" 400 -
+2024-04-06 09:21:25,882:INFO:127.0.0.1 - - [06/Apr/2024 09:21:25] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:21:34,612:INFO:127.0.0.1 - - [06/Apr/2024 09:21:34] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:22:01,616:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:22:01,616:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:22:01,617:INFO: * Restarting with stat
+2024-04-06 09:22:02,411:WARNING: * Debugger is active!
+2024-04-06 09:22:02,416:INFO: * Debugger PIN: 888-117-895
+2024-04-06 09:22:06,736:INFO:127.0.0.1 - - [06/Apr/2024 09:22:06] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:23:38,407:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:23:39,797:INFO:Prediction: [155849.90294016]
+2024-04-06 09:23:39,799:INFO:127.0.0.1 - - [06/Apr/2024 09:23:39] "POST / HTTP/1.1" 200 -
+2024-04-06 09:23:57,520:INFO:127.0.0.1 - - [06/Apr/2024 09:23:57] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 10:17:22,604:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 10:17:22,665:INFO:Prediction: [155849.90294016]
+2024-04-06 10:17:22,673:INFO:127.0.0.1 - - [06/Apr/2024 10:17:22] "POST / HTTP/1.1" 200 -
+2024-04-06 10:23:12,645:INFO:127.0.0.1 - - [06/Apr/2024 10:23:12] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 10:23:14,306:INFO:127.0.0.1 - - [06/Apr/2024 10:23:14] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 10:23:27,934:INFO:127.0.0.1 - - [06/Apr/2024 10:23:27] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 10:23:27,980:INFO:127.0.0.1 - - [06/Apr/2024 10:23:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 10:50:14,329:INFO:127.0.0.1 - - [06/Apr/2024 10:50:14] "[31m[1mGET / HTTP/1.1[0m" 405 -
