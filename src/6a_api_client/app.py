@@ -85,4 +85,5 @@ if __name__ == "__main__":
     app.run(debug=True, port=5002)
     logging.info("Starting the application")
 
+#Correr ubicado en la ruta del proyecto, no en src
 #python src/6a_api_client/app.py
