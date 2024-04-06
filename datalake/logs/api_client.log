@@ -133,3 +133,17 @@
 2024-04-06 10:23:20,993:INFO:127.0.0.1 - - [06/Apr/2024 10:23:20] "GET / HTTP/1.1" 200 -
 2024-04-06 10:23:21,180:INFO:127.0.0.1 - - [06/Apr/2024 10:23:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 2024-04-06 10:50:16,788:INFO:127.0.0.1 - - [06/Apr/2024 10:50:16] "GET / HTTP/1.1" 200 -
+2024-04-06 11:15:48,969:INFO:Starting the application
+2024-04-06 11:15:49,009:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 11:15:49,009:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 11:15:49,011:INFO: * Restarting with stat
+2024-04-06 11:15:49,599:INFO:Starting the application
+2024-04-06 11:15:49,610:WARNING: * Debugger is active!
+2024-04-06 11:15:49,614:INFO: * Debugger PIN: 232-300-915
+2024-04-06 11:16:09,017:INFO:127.0.0.1 - - [06/Apr/2024 11:16:09] "GET / HTTP/1.1" 200 -
+2024-04-06 11:16:28,234:INFO: * Detected change in 'C:\\Users\\livei\\OneDrive\\Escritorio\\Maestria_tes\\Semestre_3\\Talleres\\TallerV2\\taller-presencial-smurilloo\\src\\6a_api_client\\app.py', reloading
+2024-04-06 11:16:28,298:INFO: * Restarting with stat
+2024-04-06 11:16:28,985:INFO:Starting the application
+2024-04-06 11:16:29,000:WARNING: * Debugger is active!
+2024-04-06 11:16:29,004:INFO: * Debugger PIN: 232-300-915
